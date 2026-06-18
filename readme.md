@@ -14,7 +14,7 @@ To add Pynchon-related articles, books, etc., or to suggest an edit/correction t
 
 **Files:**
 
-Full export of the 1.0 release in formats .csv, BibTeX, and BibLaTeX
+Full export of the 1.0 release in formats .csv and BibLaTeX
 
 **Updates:**
 
