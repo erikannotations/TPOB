@@ -14,11 +14,11 @@ To add Pynchon-related articles, books, etc., or to suggest an edit/correction t
 
 **Files:**
 
-Full export of the 1.0 release in formats .csv and BibLaTeX
+Full export of the bibliography in .csv and BibLaTeX formats.
 
 **Updates:**
 
-* June 18 2026: following our contribution to International Pynchon Week 2026, we added Pynchon studies in Arabic and Mandarin Chinese.
+* June 18 2026: following our contribution to [International Pynchon Week 2026](https://anglistik.kuwi.tu-dortmund.de/ipw26/), we added Pynchon studies in Arabic and Mandarin Chinese.
 
 * Erik Ketzan, Manal Altammami, and Xiaorui Yu, "Toward the Thomas Pynchon Online Bibliography 1.5: Mandarin Chinese and Arabic Sources, and the Open Pynchon Reception Corpus", International Pynchon Week 2026, Institut für Sprache, Literatur und Kultur, Technische Universität Dortmund.
 
