@@ -20,6 +20,8 @@ Full export of the bibliography in .csv and BibLaTeX formats.
 
 * Oct 12 2026: updated metadata on new Russian edited volume, *Энтропия параболы. Комментарий к роману Томаса Пинчона «Радуга тяготения» / Parabola's Entropy: A Commentary on Thomas Pynchon's Gravity's Rainbow* (2025). Thanks to Stanislav Raspechenko.
 
+* October 11 2026: since the initial publication in October 2025, TPOB has grown from 3,489 to 3,693 items: from 155 monographs to 161, 89 edited collections to 92, 927 book chapters and sections to 984, and 2,312 articles to 2,444. New additions include 118 sources in Mandarin Chinese, 5 in Arabic, a Russian edited volume with 11 of its chapters, and 32 publications from 2025–26. We have also improved metadata on existing entries: adding DOIs to 51 records and license information to 57 *Orbit* articles, moving ISBN, DOI, and series data into their proper fields for 53 records, correcting title typos, and removing duplicate records.
+
 * June 18 2026: following our contribution to [International Pynchon Week 2026](https://anglistik.kuwi.tu-dortmund.de/ipw26/), we added Pynchon studies in Arabic and Mandarin Chinese.
 
 * Erik Ketzan, Manal Altammami, and Xiaorui Yu, "Toward the Thomas Pynchon Online Bibliography 1.5: Mandarin Chinese and Arabic Sources, and the Open Pynchon Reception Corpus", International Pynchon Week 2026, Institut für Sprache, Literatur und Kultur, Technische Universität Dortmund.
