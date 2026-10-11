@@ -22,6 +22,8 @@ Full export of the bibliography in .csv and BibLaTeX formats.
 
 * October 11 2026: updated metadata on new Russian edited volume, *Энтропия параболы. Комментарий к роману Томаса Пинчона «Радуга тяготения» / Parabola's Entropy: A Commentary on Thomas Pynchon's Gravity's Rainbow* (2025). Thanks to Stanislav Raspechenko.
 
+* October 11 2026: began maintaining TPOB programmatically via the Zotero API. As a first step, standardized 1,205 language tags to ISO 639-1 codes (e.g., "eng"/"English" → "en", "ger"/"German" → "de", "mandarin" → "zh").
+
 * June 18 2026: following our contribution to [International Pynchon Week 2026](https://anglistik.kuwi.tu-dortmund.de/ipw26/), we added Pynchon studies in Arabic and Mandarin Chinese.
 
 * Erik Ketzan, Manal Altammami, and Xiaorui Yu, "Toward the Thomas Pynchon Online Bibliography 1.5: Mandarin Chinese and Arabic Sources, and the Open Pynchon Reception Corpus", International Pynchon Week 2026, Institut für Sprache, Literatur und Kultur, Technische Universität Dortmund.
